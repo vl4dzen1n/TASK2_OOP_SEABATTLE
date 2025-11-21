@@ -1,4 +1,4 @@
-package models;
+package model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,4 +31,7 @@ public class Ship {
     public boolean isSunk() { return hits >= size; }
 
     public List<Cell> getCells() { return cells; }
+    public int getHealth(){
+        return size - hits;
+    }
 }
