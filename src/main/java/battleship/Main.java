@@ -1,4 +1,4 @@
-package org.example;
+package battleship;
 
 import models.Game;
 import models.Player;
