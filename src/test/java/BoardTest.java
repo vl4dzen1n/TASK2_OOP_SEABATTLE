@@ -39,12 +39,18 @@ public class BoardTest {
     @Test
     void testReceiveShotHit() {
         Board board = new Board();
-        Ship ship = new Ship(1);
+        Ship ship = new Ship(3);
 
         board.placeShip(ship, 0, 0, true);
 
-        Board.ShotResult result = board.receiveShot(0, 0);
-        assertEquals(Board.ShotResult.HIT, result);
+        Board.ShotResult result1 = board.receiveShot(0, 0);
+        assertEquals(Board.ShotResult.HIT, result1, "Первое попадание должно вернуть HIT");
+
+        Board.ShotResult result2 = board.receiveShot(1, 0);
+        assertEquals(Board.ShotResult.HIT, result2, "Второе попадание должно вернуть HIT");
+
+        Board.ShotResult result3 = board.receiveShot(2, 0);
+        assertEquals(Board.ShotResult.SUNK, result3, "Последнее попадание должно вернуть SUNK");
     }
 
     @Test
