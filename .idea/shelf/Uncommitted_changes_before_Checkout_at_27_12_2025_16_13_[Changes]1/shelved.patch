@@ -1,0 +1,121 @@
+Index: core/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/core/.idea/misc.xml b/core/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1766830660707)
++++ b/core/.idea/misc.xml	(date 1766830660707)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: core/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/core/.idea/encodings.xml b/core/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1766830704641)
++++ b/core/.idea/encodings.xml	(date 1766830704641)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/gui/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/gui/src/main/resources" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: core/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/core/.idea/vcs.xml b/core/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1766830660709)
++++ b/core/.idea/vcs.xml	(date 1766830660709)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: core/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/core/pom.xml b/core/pom.xml
+new file mode 100644
+--- /dev/null	(date 1766838356586)
++++ b/core/pom.xml	(date 1766838356586)
+@@ -0,0 +1,49 @@
++<project xmlns="http://maven.apache.org/POM/4.0.0"
++         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
++                             https://maven.apache.org/xsd/maven-4.0.0.xsd">
++
++    <modelVersion>4.0.0</modelVersion>
++
++    <parent>
++        <groupId>org.example</groupId>
++        <artifactId>battleship-parent</artifactId>
++        <version>1.0-SNAPSHOT</version>
++        <relativePath>../pom.xml</relativePath>
++    </parent>
++
++    <artifactId>battleship-core</artifactId>
++    <packaging>jar</packaging>
++
++    <dependencies>
++        <dependency>
++            <groupId>org.junit.jupiter</groupId>
++            <artifactId>junit-jupiter</artifactId>
++            <version>${junit.version}</version>
++            <scope>test</scope>
++        </dependency>
++    </dependencies>
++
++    <build>
++        <plugins>
++
++            <plugin>
++                <groupId>org.apache.maven.plugins</groupId>
++                <artifactId>maven-compiler-plugin</artifactId>
++                <version>3.11.0</version>
++                <configuration>
++                    <source>${java.version}</source>
++                    <target>${java.version}</target>
++                </configuration>
++            </plugin>
++
++            <plugin>
++                <groupId>org.apache.maven.plugins</groupId>
++                <artifactId>maven-surefire-plugin</artifactId>
++                <version>3.2.5</version>
++            </plugin>
++
++        </plugins>
++    </build>
++
++</project>

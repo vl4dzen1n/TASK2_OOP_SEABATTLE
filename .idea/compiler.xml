@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="battleship-core" />
         <module name="gui" />
+        <module name="battleship-gui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="battleship" target="17" />
       <module name="core" target="1.8" />
+      <module name="gui" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

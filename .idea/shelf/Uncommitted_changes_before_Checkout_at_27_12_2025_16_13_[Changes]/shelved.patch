@@ -1,0 +1,97 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f8d6ee21-34f7-408b-ad32-a8b55696b110\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/gui/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.gitignore\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/.gitignore\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/encodings.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/battleship/Main.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/models/Board.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/models/Board.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/models/Cell.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/models/Cell.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/models/Game.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/models/Game.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/models/Player.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/models/Player.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/models/Ship.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/models/Ship.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/util/CoordinateConverter.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/util/CoordinateConverter.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/util/ShipPlacement.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/main/java/util/ShipPlacement.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/BoardTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/test/java/BoardTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/GameTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/test/java/GameTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/ShipTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/core/src/test/java/ShipTest.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;vl4dzen1n&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/vl4dzen1n/TASK2_OOP_SEABATTLE.git&quot;,\r\n    &quot;accountId&quot;: &quot;cda804e6-9ca2-45b2-bf53-130c84c1a53c&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;&quot;,\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"37QM6HjHqWa8Yg3rKORZ4YAwC0v\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.BattleshipApp.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/Desktop/тренировка/TASK2_OOP_SEABATTLE/core/src/main/java/org/example/Main.java&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Admin\\Desktop\\тренировка\\TASK2_OOP_SEABATTLE\\core\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f8d6ee21-34f7-408b-ad32-a8b55696b110\" name=\"Changes\" comment=\"\" />\r\n      <created>1766830664804</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1766830664804</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/core/src/main/java/org/example/Main.java</url>\r\n          <line>13</line>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2ac41fe2132701451ac9d4e74f8704f886f7a493)
++++ b/.idea/workspace.xml	(date 1766841102811)
+@@ -4,25 +4,12 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f8d6ee21-34f7-408b-ad32-a8b55696b110" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/gui/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/core/.idea/.gitignore" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/.idea/encodings.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/battleship/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/models/Board.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/models/Cell.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/models/Game.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/models/Player.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/models/Ship.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/util/CoordinateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/util/CoordinateConverter.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ShipPlacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/util/ShipPlacement.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/BoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/test/java/BoardTest.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/GameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/test/java/GameTest.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/ShipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/test/java/ShipTest.java" afterDir="false" />
++    <list default="true" id="f8d6ee21-34f7-408b-ad32-a8b55696b110" name="Changes" comment="Пересобрал проект и добавил графический интерфейс">
++      <change afterPath="$PROJECT_DIR$/core/.idea/encodings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/core/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/core/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -37,6 +24,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+@@ -60,15 +52,15 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Application.BattleshipApp.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/Desktop/тренировка/TASK2_OOP_SEABATTLE/core/src/main/java/org/example/Main.java&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.BattleshipApp.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "gui",
++    "kotlin-language-version-configured": "true",
++    "onboarding.tips.debug.path": "C:/Users/Admin/Desktop/тренировка/TASK2_OOP_SEABATTLE/core/src/main/java/org/example/Main.java"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\core" />
+@@ -83,7 +75,20 @@
+       <option name="presentableId" value="Default" />
+       <updated>1766830664804</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Пересобрал проект и добавил графический интерфейс">
++      <option name="closed" value="true" />
++      <created>1766840018686</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1766840018686</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Пересобрал проект и добавил графический интерфейс" />
++    <option name="LAST_COMMIT_MESSAGE" value="Пересобрал проект и добавил графический интерфейс" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
