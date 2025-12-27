@@ -1,0 +1,56 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Admin/.m2/repository/org/example/battleship-core/1.0-SNAPSHOT/battleship-core-1.0-SNAPSHOT.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21-win.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21-win.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21-win.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar;C:/Users/Admin/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21-win.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Admin/Desktop/тренировка/TASK2_OOP_SEABATTLE/gui/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/Desktop/тренировка/TASK2_OOP_SEABATTLE/gui/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'battleship-gui 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'battleship-gui 1.0-SNAPSHOT API'
+org.example
+C:\Users\Admin\.m2\repository\org\example\battleship-core\1.0-SNAPSHOT\battleship-core-1.0-SNAPSHOT.jar = 1766838395708
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-controls\21\javafx-controls-21.jar = 1766599036511
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-controls\21\javafx-controls-21-win.jar = 1766599036449
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-graphics\21\javafx-graphics-21.jar = 1766599036682
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-graphics\21\javafx-graphics-21-win.jar = 1766599036583
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-base\21\javafx-base-21.jar = 1766599035772
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-base\21\javafx-base-21-win.jar = 1766599036523
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-fxml\21\javafx-fxml-21.jar = 1766599410907
+C:\Users\Admin\.m2\repository\org\openjfx\javafx-fxml\21\javafx-fxml-21-win.jar = 1766599410844
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\src\main\java = 1766830690188
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\allclasses-index.html = 1766839667967
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\allpackages-index.html = 1766839667969
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\copy.svg = 1766839667995
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\element-list = 1766839667909
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\help-doc.html = 1766839667991
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\index-all.html = 1766839667983
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\index.html = 1766839667988
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\link.svg = 1766839667996
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\member-search-index.js = 1766839667973
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\module-search-index.js = 1766839667970
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\overview-tree.html = 1766839667952
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\package-search-index.js = 1766839667971
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\script.js = 1766839667994
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\search-page.js = 1766839667999
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\search.html = 1766839667986
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\search.js = 1766839667998
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\stylesheet.css = 1766839667993
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\tag-search-index.js = 1766839667974
+C:\Users\Admin\Desktop\тренировка\TASK2_OOP_SEABATTLE\gui\target\reports\apidocs\type-search-index.js = 1766839667972
